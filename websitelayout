@@ -9,9 +9,6 @@ WebsiteBlog
 body{
   font-family: montserrat, sans-serif;
 }
-div {
-  border: 1px solid #DDD;
-}
 .navbar{
   height: 100px;
   border-bottom: 1px solid black;
@@ -117,7 +114,13 @@ img{
   Create Post
   </div>
   <div class="button dropdown-menu">
-  V Example_user
+  <button onclick="myFunction()" class="dropbtn">
+  V Example_user</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
   </div>
 </div>
 </div>
