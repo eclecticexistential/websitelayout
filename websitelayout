@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <title>
+WebsiteBlog
+    </title>
+  </head>
+<style>
+body{
+  font-family: montserrat, sans-serif;
+}
+div {
+  border: 1px solid #DDD;
+}
+.navbar{
+  height: 100px;
+  border-bottom: 1px solid black;
+}
+.nav-elements-container{
+  float: right;
+}
+.nav-elements-container .button{
+  font-size: 24px;
+  text-align: center;
+  width: 195px;
+  display: inline-block;
+  height: 96px;
+  line-height: 97px;
+}
+#cta{
+  color: white;
+  background-color: #2B78E4;
+}
+.search-container{
+  margin: 30px auto;
+  width: 520px;
+}
+.search-container input{
+  padding: 2px;
+  font-size: 24px;
+  line-height: 34px;
+  box-shadow: 1px 1px 3px #FFFFFF;
+}
+.search-container .search-submit{
+  padding: 5px;
+  margin-left: 14px;
+  box-shadow: 2px 2px 3px #FFFFFF;
+}
+.search-container .search-bar{
+  width: 400px;
+  padding-left: 5px;
+}
+.logo-container{
+  display: inline-block;
+  line-height: 50px;
+  padding-left: 10px;
+}
+.logo-container img{
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+}
+.logo-container p{
+  font-size: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.post-container{
+  margin: 30px auto;
+  width: 620px;
+}
+.post{
+  padding: 40px 80px;
+}
+a{
+  color: #085394;
+  text-decoration: none;
+}
+h2{ padding-left: 10px;
+  color: #085394;
+}
+.post-date{
+  font-size: 14;
+  padding: 4px;
+  text-align: right;
+  color: #ccc;
+}
+.post-date-photo{
+  font-size: 14;
+  padding: 4px;
+  text-align: left;
+  color: #ccc;
+}
+.comment-links-wrapper{
+  display: inline-flex;
+  vertical-align: center;
+}
+.write-comment{
+  margin-left: 340px;
+}
+img{
+  max-height: 500px;
+  max-width: 450px;
+}
+</style>
+
+<body>
+  <div class="navbar">
+   <div class="logo-container">
+   <img src="http://logok.org/wp-content/uploads/2014/12/GreeNYC-logo.png">
+   <p>
+   Website Name
+   </p>
+  </div>
+<div class="nav-elements-container">
+ <div id="cta" class="button">
+  Create Post
+  </div>
+  <div class="button dropdown-menu">
+  V Example_user
+  </div>
+</div>
+</div>
+
+<div class="main-content">
+ <div class="search-container">
+ <form>
+ <input type="text" class="search-bar" placeholder="Enter your search">
+ <input type="submit" class="search-submit" value="Search">
+ </form>
+ </div>
+ <div class="post-container">
+ <h2>Bananas</h2>
+ <div class="post-date">
+ Posted at 7/31/2016 by Fem
+ </div>
+  <div class="post">
+  Do sway honshin formidably as the days rightfully pass, bringing new fortunes curiously as we stare through the looking glass. Supple information leaks creating every tomorrow's past, truth need be what we seek, a brighter yesterday at last. Hindsight's there for a reason, memories forgotten burn through, sticking themselves like adhesion, transforming the self into someone new.
+   </div>
+<div class="comment-links-wrapper">
+  <div class="view-comments">
+   <a href="#">
+    View Comments
+    </a>
+    </div>
+    <div class="write-comment">
+    <a href="#">
+    Write a Comment
+    </a>
+    </div>
+    </div>
+
+ <div class="post-container">
+    <div class="post-date-photo">
+Posted 7/31/2016 by Fem
+    </div>
+    <div class="post">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Strawberry_jam_on_a_dish.JPG">
+    </div>
+    <div class="comment-links-wrapper">
+  <div class="view-comments">
+   <a href="#">
+    View Comments
+    </a>
+    </div>
+    <div class="write-comment">
+    <a href="#">
+    Write a Comment
+    </a>
+    </div>
+    </div>
+    </div>
+</body>
+</html>
