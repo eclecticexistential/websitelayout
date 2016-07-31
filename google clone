@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang=eng>
+<head>
+<title>
+Plumbus
+</title>
+</head>
+<style>
+div{
+  border:1px solid #ccc;
+}
+.nav{
+font-family: arial;
+height: 80px;
+  width: 100%;
+  position: relative;
+  font-size: 14px;
+}
+a{
+  color: #085394;
+  text-decoration: none;
+}
+.text1{ position: absolute;
+margin-top: 16px;
+margin-left: -110px;
+}
+.text2{position: absolute;
+  margin-top: 16px;
+  margin-left: -60px;
+}
+ul{
+  display: inline-block;
+  float: right;
+}
+ul img{
+  height: 50px;
+  width: 50px;
+}
+.logo{ display: block;
+text-align: center;
+  font-family:arial;
+  font-size: 72px;
+  word-spacing: -20px;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+p1{color: blue;}
+p2{color: red;}
+p3{color: yellow;}
+p4{color: blue;}
+p5{color: green;}
+p6{color: red;}
+
+.search{
+  border: 1px solid black;
+  height: 35px;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 20%;
+  font-family: Arial;
+  padding-left: 10px;
+  font-size: 17px;
+}
+input{
+  background: url("http://img.photobucket.com/albums/v399/Missinmyman/Microphone_zpsnfzlqbju.png") no-repeat scroll 600px 5px;
+}
+.thumbnail{
+  display: inline-block;
+  width: 5%;
+  margin-top: 5%;
+margin-left: 10%;
+margin-right: 10%;
+}
+.thumbnail img {
+  height:100px;
+  width: 100px;
+}
+.thumb{
+  width: 100%;
+  margin-left: 7%;
+}
+p{
+  text-align: center;
+}
+</style>
+
+<body>
+<div class="nav">
+  <ul>
+<a href="#" class="text1">Email</a>
+<a href="#" class="text2">Images</a>
+ 
+<a href="https://image.freepik.com/free-icon/squares_318-10893.jpg">
+<img src="https://image.freepik.com/free-icon/squares_318-10893.jpg"/></a>
+<a href="http://www.mervikhaums.com/wp-content/uploads/2013/12/Jingles.gif"><img src="http://www.mervikhaums.com/wp-content/uploads/2013/12/Jingles.gif"/></a>
+
+<a href="http://combineoverwiki.net/images/thumb/f/f0/Aperture_Science_grey.svg/250px-Aperture_Science_grey.svg.png">
+<img src="http://combineoverwiki.net/images/thumb/f/f0/Aperture_Science_grey.svg/250px-Aperture_Science_grey.svg.png"/></a>
+    </ul>
+</div>
+
+<div class="logo">
+<strong>
+<p1>S</p1>
+<p2>m</p2>
+<p3>e</p3>
+<p4>g</p4>
+<p5>l</p5>
+<p6>e</p6>
+</strong>
+</div>
+<div>
+<input type="text" class="search"placeholder="Search Smegle or get your own ring"/> 
+</div>
+<div class="thumbnails">
+<div class="thumb">
+<a href="www.codepen.com" class="thumbnail">
+      <p>Codepen</p> 
+      <img class="img-responsive" src="https://assets.codepen.io/assets/social/facebook-default-7657f61288f7b1206a48319c58afddf6.png"/>
+    </a>
+    <a href="www.github.com" class="thumbnail">
+      <p>Github</p> 
+      <img class="img-responsive" src="http://lh6.googleusercontent.com/-OhCREkDSdn4/UzZfdntRmZI/AAAAAAAAAdQ/-NxEyaocwgU/w282-h258-no/github_cat.png"/>
+    </a>
+    <a href="www.freecodecamp.com" class="thumbnail">
+      <p>freeCodeCamp</p> 
+      <img class="img-responsive" src="https://avatars0.githubusercontent.com/u/9892522?v=3&s=200"/>
+    </a>
+    <a href="www.sublimetext.com" class="thumbnail">
+      <p>Sublime</p> 
+      <img class="img-responsive" src="http://ensime.github.io/talks/scalasphere16/images/sublime-logo.svg"/>
+    </a>
+    <a href="www.javascript.com" class="thumbnail">
+      <p>Javascript</p> 
+      <img class="img-responsive" src="http://4.bp.blogspot.com/-b5-axQ3lW4o/TZswrxxykTI/AAAAAAAAAQ8/VePOJn7JntQ/s1600/JS.png"/>
+    </a>
+    <a href="http://www.css3.com/" class="thumbnail">
+      <p>CSS3</p> 
+      <img class="img-responsive" src="http://www.jamestan14.com/img/icons/cssicon.png"/>
+    </a>
+</div>
+</div>
+</body>
+
+</html>
