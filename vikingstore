@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang=eng>
+<head>
+<title>Viking Store</title>
+</head>
+<style>
+.nav{position: relative;
+  display: block;
+}
+.websitename{
+  display: inline-block;
+  font-size: 20px;
+  padding: 15px;
+  margin-left: 15%;
+}
+.cart{
+  display: inline-block;
+  float: right;
+  margin-left: 50%;
+  position: absolute;
+}
+.cart img{ display: inline-block;
+  height: 30px;
+  width: 30px;
+  vertical-align: middle;
+  padding: 3px;
+}
+.cart p{
+  display: inline-block;
+}
+.mainImg img{
+height: 500px;
+  width: 100%;
+}
+.imgborder{
+  margin-top: -5px;
+  background-color: #444;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+.backgroundborder{
+  text-align: center;
+  font-size: 18px;
+  color: #AAA;
+  padding: 10px;
+}
+.thumbnail{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.thumbnail ul{
+margin-left: 11%;
+margin-right: 5%;
+}
+.thumbnail li{ display: inline-block;
+background-color: #444;
+margin: 5px;
+padding: 15px;
+}
+li a{ text-align: center;
+  text-decoration: none;
+}
+li img{ position: relative;
+  height: 175px;
+  width: 175px;
+}
+li p{
+position: absolute;
+  margin-top: -175px;
+  margin-left: 135px
+}
+li button{
+  display: block;
+  margin-left:25%;
+  box-shadow: 1px 1px 8px #000;
+  width: 90px;
+  padding: 5px;
+  margin-top: 1em;
+  background-color: #FA0;
+  font-family: sans;
+  font-size: 14px;
+  border: 1px solid #FA0;
+  border-radius: 2px;
+}
+li h3{
+color:white;
+  margin-top: 5px;
+}
+ul.pagination {
+    display: inline-block;
+    text-align: center;
+    margin-left: 27%;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: #04D;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    font-size: 18px;
+}
+ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+ul.pagination li a:hover:not(.active) {background-color: #222;}
+
+.bottomBorder{
+text-align: center;
+  background-color: #444;
+  color: white;
+  padding: 5px;
+}
+.bottomBorder h3{
+  color: #FA0;
+}
+.bottomBorder img{
+  font-size: 12px;
+  padding: 1px;
+}
+</style>
+
+
+<body>
+<div class="nav">
+<div class="websitename">Viking Store
+</div>
+<div class="cart"><img src ="https://s3.amazonaws.com/viking_education/demos/viking_store_app/icon_empty_cart.png"><p>Your Cart</p>
+</div>
+</div>
+<div class="mainImg"><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/viking_ship_background_medium.jpg">
+</div>
+
+<div class="imgborder">The Best Viking Gear on the Whole Web</div>
+<div class="backgroundborder"><em>Choose from among our lineup of fine axes below</em></div>
+<div class="thumbnail">
+<ul>
+<li><a href="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_silent_night_small.jpg"><h3>Silent Night</h3><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_silent_night_small.jpg"><p>$200</p></a><a href="#"><button>Add to Cart</button></a></li>
+<li><a href="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_dainty_daisy_small.jpg"><h3>Dainty Daisy</h3><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_dainty_daisy_small.jpg"><p>$100</p></a><a href="#"><button>Add to Cart</button></a></li>
+<li><a href="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_double_trouble_small.jpg"><h3>Double Trouble</h3><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_double_trouble_small.jpg"><p>$340</p></a><a href="#"><button>Add to Cart</button></a></li>
+<li><a href="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_whispering_wind_small.jpg"><h3>Whispering Wind</h3><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_whispering_wind_small.jpg"><p>$225</p></a><a href="#"><button>Add to Cart</button></a></li>
+<li><a href="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_cunning_cutter_small.jpg"><h3>Cunning Cutter</h3><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_cunning_cutter_small.jpg"><p>$200</p></a><a href="#"><button>Add to Cart</button></a></li>
+<li><a href="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_kingmaker_small.jpg"><h3>Kingmaker</h3><img src="https://s3.amazonaws.com/viking_education/demos/viking_store_app/axe_kingmaker_small.jpg"><p>$400</p></a><a href="#"><button>Add to Cart</button></a></li>
+</ul>
+</div>
+<div>
+<ul class="pagination">
+  <li><a href="#">&lt;&lt;Previous</a></li>
+  <li><a href="#">1</a></li>
+  <li><a href="#">2</a></li>
+  <li><a href="#">3</a></li>
+  <li><a href="#">4</a></li>
+  <li><a href="#">5</a></li>
+  <li><a href="#">6</a></li>
+  <li><a href="#">7</a></li>
+  <li><a href="#">Next&gt&gt</a></li>
+</ul>
+</div>
+<div class="bottomBorder">
+<h3>CONTACT</h3>
+<img src ="http://www.jaykayfreight.com/assets/images/telephone.png"> 1-000-000-0000
+<br></br>
+<img src ="http://www.eustis.org/images/page/icons/email.gif"> contact@vikingstore.com
+</div>
+</body>
+</html>
