@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang=eng>
+<head>
+<title>My Profile</title>
+<link rel ="stylesheet" type="text/css" href="facebooktheme.css">
+</head>
+<body>
+<div class="navbar">
+<div class="websiteName">Facelook</div>
+<div class="search">
+<input type="text" id="searchbar" placeholder="Search for Users">
+</div> 
+<div class="name">YourName</div>
+</div>
+<div class="middle">
+    <div class="imageWide">
+    <img src="http://all4desktop.com/data_images/1920%20x%201200/4186087-amazing-sunset.jpg">
+    </div>
+  <div class="topInfo">
+  <div class="imagePro">
+  <img src="https://pbs.twimg.com/profile_images/489526322356424704/s6sJi3Kl.jpeg">
+  </div>
+  </div>
+  <div class="infoBar">
+    <div class="infoBox">
+  <a href="#" id="def">Timeline</a>
+    <a href="#">About</a>
+    <a href="#">Photos(29)</a> 
+    <a href="#">Friends(38)</a>
+    <a href="#">Edit Profile</a>   
+    </div>
+    </div>  
+    <br></br>
+  <div class="secondTitle">
+  <h2>About</h2>
+  <button>Edit your Profile</button>
+  </div>
+  <div class="left">
+  <h3 id="top">Basic Information</h3>
+  <table>
+  <tr>
+        <th>Birthday:</th>
+        <td>July 31st, 1980</td>
+  </tr>
+  <br></br>
+  <tr>
+        <th>College:</th>
+        <td>Hogwarts College</td>
+  </tr>
+  <br></br>
+  <tr>
+        <th>Hometown:</th>
+        <td>Godrick's Hollow, England</td>
+  </tr>
+  <tr>
+        <th>Currently Lives:</th>
+        <td>Godrick's Hollow, England</td>
+  </tr>
+  </table>
+  <br></br>
+  <h3>Contact Information</h3>
+  <table>
+  <tr>
+        <th>Email:</th>
+        <td>harry_potter@hogwarts.edu</td>
+  </tr>
+  <tr>
+        <th>Telephone:   </th>
+        <td>555-123-4567</td>
+  </tr>
+  </table>
+  </div>
+  <div class="right">
+  <h3></h3>
+  <p></p>
+  <h3></h3>
+  <p></p>
+</div>
+</div>
+</body>
