@@ -1,0 +1,99 @@
+.navbar{
+  margin:-8px;
+  background-color:#324C9C;
+  color: white;
+  padding: 15px;
+  position: relative;
+  box-shadow: 0px 2px 3px #000;
+}
+.websiteName{
+  margin-left: 13%;
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 35px;
+}
+.signIn{
+  margin-top: -2.5%;
+  float: right;
+  position: relative;
+  padding: 5px;
+  margin-right: 6px;
+}
+.signIn input{
+  margin-right: 1em;
+  border: 1px solid black;
+}
+.signIn p{
+  font-size: 14px;
+  position: absolute;
+  display: inline-block;
+  margin-top: -20px;
+}
+.signIn button {
+  margin-right: 5px;
+  border: 1px solid black;
+  color: black;
+  box-shadow: 1px 1px 5px #000;
+  background-color: #75A3DE;
+}
+.leftFloat{
+  margin: 1em;
+  margin-left: 11%;
+  margin-top: 12%;
+  float: left;
+  line-height: 30px;
+}
+.leftFloat h2{font-size: 32px;}
+.leftFloat li{
+  font-size: 18px;
+}
+.rightFloat{
+  margin-top: 7%;
+  float:right;
+  display: block;
+  margin-right:12%;
+}
+.rightFloat h1{
+  font-size: 35px;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+}
+.rightFloat .name{
+  display: inline-block;
+  margin-bottom: 5%;
+}
+.rightFloat .single{
+  display: block;
+  width: 1px;
+  margin-right: 10%;
+}
+#firstName, #lastName{
+  margin-right: 10px;
+  border-radius: 4px;
+  margin-bottom:15px;
+}
+#email, #password{
+  width: 355px;
+  margin-bottom: 35px;
+  border-radius: 4px;
+}
+#pad, #email, #firstName, #lastName, #password{
+  padding-left: 3px;
+}
+.rightFloat label{
+  display: inline-block;
+  margin-right: 5px;
+}
+.rightFloat select{
+  margin-right: 10px;
+}
+.submit{
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  border-radius: 1px;
+  border: 1px solid black;
+  box-shadow: 0px 2px 3px #000;
+  height: 30px;
+  width:355px;
+}

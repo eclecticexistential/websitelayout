@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang=eng>
+<head>
+<title>
+</title>
+
+<link rel="stylesheet" type="text/css" href="facebooktheme.css">
+</head>
+<body>
+<div class="navbar">
+<div class="websiteName">
+<strong>Facelook</strong>
+</div>
+<div class="signIn">
+<p>Email</p>
+<input type:"text" id="pad">
+<p>Password</p>
+<input type="PASSWORD" name="password" id="pad">
+<button onclick="window.location.href='http://www.google.com'">Log In</button>
+</div>
+</div>
+<div class="leftFloat">
+<h2><strong>Connect with all your friends!</strong></h2>
+<ul>
+<li>See photos and updates in your news feed</li>
+<li>Post your status for the world to see from your profile</li>
+<li>Get in touch with your frineds by "friending" them</li>
+<li>Like things because you're a positive person!</li>
+</ul>
+</div>
+<div class="rightFloat">
+<h1>Sign Up</h1>
+<div class="name">
+<input type:"text" id="firstName" placeholder="First Name">
+<input type:"text" id="lastName" placeholder="Last Name">
+</div>
+<div class="single">
+<input type="text" id="email" placeholder="Your Email">
+<input type="PASSWORD" id="password" placeholder="Your New Password">
+<input type="PASSWORD" id="password" placeholder="Confirm Your Password">
+</div>
+<h3>Birthday</h3>
+    <select>
+      <option value="" selected>Month</option>
+      <option value="Jan">Jan</option>
+      <option value="Feb">Feb</option>
+      <option value="Mar">Mar</option>
+      <option value="Apr">Apr</option>
+      <option value="May">May</option>
+      <option value="Jun">Jun</option>
+      <option value="Jul">Jul</option>
+      <option value="Aug">Aug</option>
+      <option value="Sep">Sep</option>
+      <option value="Oct">Oct</option>
+      <option value="Nov">Nov</option>
+      <option value="Dec">Dec</option>
+    </select>
+<select>
+      <option value="">Day</option>
+      <option value="i">1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+      <option>5</option>
+      <option>6</option>
+      <option>7</option>
+      <option>8</option>
+      <option>9</option>
+      <option>10</option>
+      <option>11</option>
+      <option>12</option>
+      <option>13</option>
+      <option>14</option>
+      <option>15</option>
+      <option>16</option>
+      <option>17</option>
+      <option>18</option>
+      <option>19</option>
+      <option>20</option>
+      <option>21</option>
+      <option>22</option>
+      <option>23</option>
+      <option>24</option>
+      <option>25</option>
+      <option>26</option>
+      <option>27</option>
+      <option>28</option>
+      <option>29</option>
+      <option>30</option>
+      <option>31</option>
+    </select>
+    <select>
+      <option value="">Year</option>
+      <option value="i">1960</option>
+      <option>1961</option>
+      <option>1962</option>
+      <option>1963</option>
+      <option>1964</option>
+      <option>1965</option>
+      <option>1966</option>
+      <option>1967</option>
+      <option>1968</option>
+      <option>1969</option>
+      <option>1970</option>
+      <option>1971</option>
+      <option>1972</option>
+      <option>1973</option>
+      <option>1974</option>
+      <option>1975</option>
+      <option>1976</option>
+      <option>1977</option>
+      <option>1978</option>
+      <option>1979</option>
+      <option>1980</option>
+      <option>1981</option>
+      <option>1982</option>
+      <option>1983</option>
+      <option>1984</option>
+      <option>1985</option>
+      <option>1986</option>
+      <option>1987</option>
+      <option>1988</option>
+      <option>1989</option>
+      <option>1990</option>      
+      <option>1991</option>
+      <option>1992</option>
+      <option>1993</option>
+      <option>1994</option>
+      <option>1995</option>
+      <option>1996</option>
+      <option>1997</option>
+      <option>1998</option>
+      <option>1999</option>
+      <option>2000</option>
+    </select>
+    <br></br>
+<label><input type=radio id="female">Female</label>
+<label><input type=radio id="male">Male</label>
+<br></br>
+<button class="submit" onclick="window.location.href='http://www.google.com'">Sign Up!</button>
+</div>
+</body>
+</html>
