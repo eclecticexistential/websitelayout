@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang=eng>
+<head>
+<title>
+Friends
+</title>
+<link rel="stylesheet" type="text/css" href="facebooktheme.css">
+</head>
+<body>
+<div class="navbar">
+<div class="websiteName">Facelook</div>
+<div class="name">YourName</div>
+<div class="search">
+<input type="text" id="searchbar" placeholder="Search for Users">
+</div>
+</div>
+<div class="middle">
+  <div class="imageWide">
+  <img src="https://vitalitylifeline.files.wordpress.com/2013/07/nature-forest-sun-ray.jpg">
+  </div>
+  <div class="topInfo">
+  <div class="imagePro">
+  <img src="http://www.telegraph.co.uk/content/dam/Portal%20Curated/folder/denise-lewis2-small.png">
+  </div>
+  </div>
+  <div class="infoBar">
+  <div class="infoBox"> 
+    <a href="#" id="true"></a>
+  <a href="#">Timeline</a>
+    <a href="facebookprofile">About</a>
+    <a href="#">Photos(29)</a> 
+    <a href="#">Friends(38)</a>
+    <a href="#" id="info">Edit Profile</a>   
+    </div>
+    </div>  
+    <br></br>
+  <div class="secondTitle">
+  <h2>Friends</h2>
+  </div>
+  <div class="pics">
+  <div class="rect">
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+  <a href="#">Hermione Granger</a>
+  <p>389 Friends</p>
+  <button>Unfriend Me</button>
+  </div>
+  <div class="rect">
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+  <a href="#">Hermione Granger</a>
+  <p>489 Friends</p>
+  <button>Unfriend Me</button>
+  </div>
+  <div class="rect">
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+  <a href="#">Hermione Granger</a>
+  <p>699 Friends</p>
+  <button>Unfriend Me</button>
+  </div>
+  <div class="rect">
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+  <a href="#">Hermione Granger</a>
+  <p>600 Friends</p>
+  <button>Unfriend Me</button>
+  </div>
+  <div class="rect">
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+  <a href="#">Hermione Granger</a>
+  <p>600 Friends</p>
+  <button>Unfriend Me</button>
+  </div>
+  <div class="rect">
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+  <a href="#">Hermione Granger</a>
+  <p>432 Friends</p>
+  <button>Unfriend Me</button>
+  </div>
+  </div>
+</div>
+</body>

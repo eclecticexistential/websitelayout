@@ -23,11 +23,12 @@
   </div>
   <div class="infoBar">
     <div class="infoBox">
-  <a href="#" id="def">Timeline</a>
+    <a href="#" id="true"></a>
+  <a href="#">Timeline</a>
     <a href="#">About</a>
     <a href="#">Photos(29)</a> 
-    <a href="#">Friends(38)</a>
-    <a href="#">Edit Profile</a>   
+    <a href="facebookfriends">Friends(38)</a>
+    <a href="#" id="info">Edit Profile</a>   
     </div>
     </div>  
     <br></br>
@@ -71,10 +72,10 @@
   </table>
   </div>
   <div class="right">
-  <h3></h3>
-  <p></p>
-  <h3></h3>
-  <p></p>
+  <h3>Words to Live By</h3>
+  <p>Do sway honshin formidably as the days rightfully pass. Bringing new fortunes curiously as we stare through the looking glass. Supple information leaks creating every tomorrows past, truth need be what we seek, a brighter yesterday at last. Hindsight's there for a reason, memories forgotten burn through, sticking themselves like adhesion, transforming the self into someone new.</p>
+  <h3>About Me</h3>
+  <p>Do sway honshin formidably as the days rightfully pass. Bringing new fortunes curiously as we stare through the looking glass. Supple information leaks creating every tomorrows past, truth need be what we seek, a brighter yesterday at last. Hindsight's there for a reason, memories forgotten burn through, sticking themselves like adhesion, transforming the self into someone new. Do sway honshin formidably as the days rightfully pass. Bringing new fortunes curiously as we stare through the looking glass. Supple information leaks creating every tomorrows past, truth need be what we seek, a brighter yesterday at last. Hindsight's there for a reason, memories forgotten burn through, sticking themselves like adhesion, transforming the self into someone new.</p>
 </div>
 </div>
 </body>

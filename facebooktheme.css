@@ -50,26 +50,33 @@ margin-top:-2.5%;
   border: 1px solid black;
   margin-top: -5px;
   padding-top:19px;
-  width: 97.7%;
+  width: 998px;
   height:37px;
 }
 .infoBox a{
   padding: 19px;
-  padding-left: 45px;
-  padding-right: 45px;
-  margin-left: -1px;
+  padding-left: 48px;
+  padding-right: 47px;
   margin-right: -4px;
   border: 1px solid black;
   text-decoration: none;
   vertical-align: middle;
+  color:black;
 }
-#def{
-  margin-left:227px;
+.infoBox a:hover{
+  background-color:#333;
+}
+#true{
+  padding-left:144px;
+  margin-right: -2px;
+}
+#info{
+ border-right:none;
 }
 .secondTitle{
-  width:960px;
+  width:958px;
   padding:20px;
-  background-color: #777;
+  background-color: #999;
   position: relative;
   border: 1px solid black;
 }
@@ -89,6 +96,7 @@ margin-top:-2.5%;
 .left{
   float: left;
   margin: 10%;
+
 }
 .left #top{
   margin-bottom: -20px;
@@ -96,10 +104,16 @@ margin-top:-2.5%;
 }
 .left table{
   text-align: left;
-  line-height: 25px;
+  line-height: 25px;  
 }
-.bottom{
+.right{
+  padding-top: 85px;
+  height: 475px;
+  width:998px;
   border:1px solid black;
+}
+.right p{
+  margin-right: 50px;
 }
 .signIn{
   margin-top: -2.5%;
@@ -185,4 +199,40 @@ margin-top:-2.5%;
   box-shadow: 0px 2px 3px #000;
   height: 30px;
   width:355px;
+}
+.pics{
+  width: 958px;
+  padding:20px;
+  border: 1px solid black;
+}
+.rect{ 
+  display: inline-block;
+  height:100px;
+  width: 300px;
+  border: 1px solid black;
+  padding:10px;
+  margin: 5px;
+  margin-left: 100px;
+}
+.rect img{
+  margin-top:20px;
+  height: 70px;
+  width: 70px;
+  position: relative;
+}
+.rect a{
+  position: absolute;
+  margin-top: 30px;
+}
+.rect button{
+  position: absolute;
+  margin-left:200px;
+  margin-top: -45px;
+  box-shadow: 1px 1px 5px #000;
+  border: 1px solid black;
+}
+.rect p{
+  position: relative;
+  margin-left: 80px;
+  margin-top: -45px;
 }

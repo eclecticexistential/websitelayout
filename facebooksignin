@@ -16,7 +16,7 @@
 <input type:"text" id="pad">
 <p>Password</p>
 <input type="PASSWORD" name="password" id="pad">
-<button onclick="window.location.href='http://www.google.com'">Log In</button>
+<button onclick="window.location.href='facebookprofile'">Log In</button>
 </div>
 </div>
 <div class="leftFloat">
@@ -137,7 +137,7 @@
 <label><input type=radio id="female">Female</label>
 <label><input type=radio id="male">Male</label>
 <br></br>
-<button class="submit" onclick="window.location.href='http://www.google.com'">Sign Up!</button>
+<button class="submit" onclick="window.location.href='facebookprofile'">Sign Up!</button>
 </div>
 </body>
 </html>
