@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang=eng>
+<head>
+<title>
+Newsfeed
+</title>
+<link rel="stylesheet" type= "text/css" href="facebooktheme.css">
+</head>
+<body>
+<div class="navbar">
+<div class="websiteName">Facelook</div>
+<div class="search">
+<input type="text" id="searchbar" placeholder="Search for Users">
+</div> 
+<div class="name1">YourName</div>
+</div>
+<div class="sideBar">
+<div class="topUser">
+<img src="http://vignette1.wikia.nocookie.net/harrypotter/images/3/31/4eabd9f13f90134fc24b587a4e7908fc.jpg/revision/latest?cb=20140521121557">
+<a href="#" id="proName"><strong>Harry Potter</strong></a>
+<a href="#" id="profile">Edit Profile</a>
+</div>
+<div class="friendstat">
+<h3>Recently Active</h3>
+<img src="http://vignette3.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest/scale-to-width-down/270?cb=20150828153318">
+<a href="#" id="ic">Ron Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://vignette3.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest/scale-to-width-down/270?cb=20150828153318">
+<a href="#" id="ic">Ron Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+<a href="#" id="ic">Hermione Granger</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
+<a href="#" id="ic">Hermione Granger</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://vignette3.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest/scale-to-width-down/270?cb=20150828153318">
+<a href="#" id="ic">Ron Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://2static.fjcdn.com/pictures/Luna+lovegood+big3+evanna+lynch+luna+lovegood+has+some+bad+angles_1646b0_5580042.jpg">
+<a href="#" id="ic">Luna Lovegood</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://2static.fjcdn.com/pictures/Luna+lovegood+big3+evanna+lynch+luna+lovegood+has+some+bad+angles_1646b0_5580042.jpg">
+<a href="#" id="ic">Luna Lovegood</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://images4.fanpop.com/image/photos/21000000/New-Ginny-Promo-Pics-ginevra-ginny-weasley-21000088-1874-2500.jpg">
+<a href="#" id="ic">Ginny Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://images4.fanpop.com/image/photos/21000000/New-Ginny-Promo-Pics-ginevra-ginny-weasley-21000088-1874-2500.jpg">
+<a href="#" id="ic">Ginny Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://www.charactour.com/images/profile/harry-potter-and-the-order-of-the-phoenix-james-phelps.jpg">
+<a href="#" id="ic">Fred Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<img src="http://vignette4.wikia.nocookie.net/harrypotter/images/f/f5/PHELPS2.jpg/revision/latest?cb=20150828154311">
+<a href="#" id="ic">George Weasley</a>
+<p>Posted on Thursday 2/1/2015</p>
+<a href="#" id="spt">See All Your Friends</a>
+</div>
+</div>
+</div>
+<div class="center">
+<div class="boxPost">
+<h3>Post</h3>
+<div class="boxed">
+<input type="text" id="here" placeholder="Tell the world...">
+</div>
+<button id="tax">Post</button>
+</div>
+<br></br>
+<div class="reg">
+<img src="http://vignette4.wikia.nocookie.net/harrypotter/images/f/f5/PHELPS2.jpg/revision/latest?cb=20150828154311">
+<a href="#" id="ic">George Weasley</a>
+<p id="pos">Posted on Thursday 2/1/2015</p>
+<p id="words">Do sway honshin formidably as the days rightfully pass, bringing new fortunes curiously as we stare through the looking glass. Supple information leaks creating every tomorrow's past. Truth need be what we seek, a brighter yesterday at last. Hindsights there for a reason, memories forgotten burn through, sticking themselves like adhesion, transforming the self into someone new. Do sway honshin formidably as the days rightfully pass, bringing new fortunes curiously as we stare through the looking glass. Supple information leaks creating every tomorrow's past. Truth need be what we seek, a brighter yesterday at last. Hindsights there for a reason, memories forgotten burn through, sticking themselves like adhesion, transforming the self into someone new.</p>
+<div class="footer">
+<a href="#" id="like">Like</a>
+<a href="#" id="comment">Comment</a>
+</div>
+</div>
+</div>
+</body>

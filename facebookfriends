@@ -9,7 +9,7 @@ Friends
 <body>
 <div class="navbar">
 <div class="websiteName">Facelook</div>
-<div class="name">YourName</div>
+<div class="name1">YourName</div>
 <div class="search">
 <input type="text" id="searchbar" placeholder="Search for Users">
 </div>
@@ -26,10 +26,10 @@ Friends
   <div class="infoBar">
   <div class="infoBox"> 
     <a href="#" id="true"></a>
-  <a href="#">Timeline</a>
+  <a href="newsfeed">Timeline</a>
     <a href="facebookprofile">About</a>
     <a href="#">Photos(29)</a> 
-    <a href="#">Friends(38)</a>
+    <a href="facebookfriends">Friends(38)</a>
     <a href="#" id="info">Edit Profile</a>   
     </div>
     </div>  
@@ -45,32 +45,32 @@ Friends
   <button>Unfriend Me</button>
   </div>
   <div class="rect">
-  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
-  <a href="#">Hermione Granger</a>
+  <img src="http://vignette3.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest/scale-to-width-down/270?cb=20150828153318">
+  <a href="#">Ron Weasley</a>
   <p>489 Friends</p>
   <button>Unfriend Me</button>
   </div>
   <div class="rect">
-  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
-  <a href="#">Hermione Granger</a>
+  <img src="http://2static.fjcdn.com/pictures/Luna+lovegood+big3+evanna+lynch+luna+lovegood+has+some+bad+angles_1646b0_5580042.jpg">
+  <a href="#">Luna Lovegood</a>
   <p>699 Friends</p>
   <button>Unfriend Me</button>
   </div>
   <div class="rect">
-  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
-  <a href="#">Hermione Granger</a>
+  <img src="http://images4.fanpop.com/image/photos/21000000/New-Ginny-Promo-Pics-ginevra-ginny-weasley-21000088-1874-2500.jpg">
+  <a href="#">Ginny Weasley</a>
   <p>600 Friends</p>
   <button>Unfriend Me</button>
   </div>
   <div class="rect">
-  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
-  <a href="#">Hermione Granger</a>
+  <img src="http://www.charactour.com/images/profile/harry-potter-and-the-order-of-the-phoenix-james-phelps.jpg">
+  <a href="#">Fred Weasley</a>
   <p>600 Friends</p>
   <button>Unfriend Me</button>
   </div>
   <div class="rect">
-  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/4/41/Hermionedhface.jpg/revision/latest/scale-to-width-down/270?cb=20150811204720">
-  <a href="#">Hermione Granger</a>
+  <img src="http://vignette4.wikia.nocookie.net/harrypotter/images/f/f5/PHELPS2.jpg/revision/latest?cb=20150828154311">
+  <a href="#">George Weasley</a>
   <p>432 Friends</p>
   <button>Unfriend Me</button>
   </div>

@@ -10,7 +10,7 @@
 <div class="search">
 <input type="text" id="searchbar" placeholder="Search for Users">
 </div> 
-<div class="name">YourName</div>
+<div class="name1">YourName</div>
 </div>
 <div class="middle">
     <div class="imageWide">
@@ -24,8 +24,8 @@
   <div class="infoBar">
     <div class="infoBox">
     <a href="#" id="true"></a>
-  <a href="#">Timeline</a>
-    <a href="#">About</a>
+  <a href="newsfeed">Timeline</a>
+    <a href="facebookprofile">About</a>
     <a href="#">Photos(29)</a> 
     <a href="facebookfriends">Friends(38)</a>
     <a href="#" id="info">Edit Profile</a>   
