@@ -368,11 +368,14 @@ margin-top:-2.5%;
 }
 .footer{
   background-color:#CCC;
+  width:712px;
+  margin-left: -1px;
   height: 30px;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  border: 1px solid black;
   padding-left: 10px;
+  padding-top: 8px;
 }
 .footer, #like, #comment {
   padding-right: 5px;
+  vertical-align: middle;
 }
